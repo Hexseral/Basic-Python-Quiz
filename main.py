@@ -12,6 +12,7 @@ if start in List:
     print("Good Luck!")
 else:
     print("Too bad, start anyway!")
+#If the user inputs anything other than one of the versions of start within the list it will print the line above
 
 answerOne = input("what is 1 + 1?\n")
 if answerOne == 2:
